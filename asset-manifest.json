@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rasa_Novum-Website/static/css/main.dc961d5c.css",
+    "main.js": "/Rasa_Novum-Website/static/js/main.9ff90222.js",
+    "static/js/453.2c7b5c86.chunk.js": "/Rasa_Novum-Website/static/js/453.2c7b5c86.chunk.js",
+    "index.html": "/Rasa_Novum-Website/index.html",
+    "static/media/deepslate.webp": "/Rasa_Novum-Website/static/media/deepslate.b2b10525adfa3023b9dd.webp",
+    "main.dc961d5c.css.map": "/Rasa_Novum-Website/static/css/main.dc961d5c.css.map",
+    "main.9ff90222.js.map": "/Rasa_Novum-Website/static/js/main.9ff90222.js.map",
+    "453.2c7b5c86.chunk.js.map": "/Rasa_Novum-Website/static/js/453.2c7b5c86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc961d5c.css",
+    "static/js/main.9ff90222.js"
+  ]
+}
